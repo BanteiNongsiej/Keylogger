@@ -1,0 +1,27 @@
+TimeStamps2023-07-14 22:41:42:
+
+[w][{Pressed: "w"}, {Held: "w"}, {Released: "w"}, h][{Pressed: "w"}, {Held: "w"}, {Released: "w"}, h][{Pressed: "w"}, {Held: "w"}, {Released: "w"}, h][{Pressed: "w"}, {Held: "w"}, {Released: "w"}, h][{Pressed: "h"}, {Held: "h"}, {Released: "h"}, a][{Pressed: "h"}, {Held: "h"}, {Released: "h"}, a][{Pressed: "h"}, {Held: "h"}, {Released: "h"}, a][{Pressed: "h"}, {Held: "h"}, {Released: "h"}, a][{Pressed: "a"}, {Held: "a"}, {Released: "a"}, t][{Pressed: "a"}, {Held: "a"}, {Released: "a"}, t][{Pressed: "a"}, {Held: "a"}, {Released: "a"}, t][{Pressed: "a"}, {Held: "a"}, {Released: "a"}, t]
+
+
+
+
+
+
+
+[{Pressed: "i"}, {Held: "i"}, {Released: "i"}, s][{Pressed: "i"}, {Held: "i"}, {Released: "i"}, s][{Pressed: "i"}, {Held: "i"}, {Released: "i"}, s][{Pressed: "i"}, {Held: "i"}, {Released: "i"}, s]
+
+
+
+
+
+
+
+[{Pressed: "k"}, {Held: "k"}, {Released: "k"}, e][{Pressed: "k"}, {Held: "k"}, {Released: "k"}, e][{Pressed: "k"}, {Held: "k"}, {Released: "k"}, e][{Pressed: "k"}, {Held: "k"}, {Released: "k"}, e][{Pressed: "e"}, {Held: "e"}, {Released: "e"}, y][{Pressed: "e"}, {Held: "e"}, {Released: "e"}, y][{Pressed: "e"}, {Held: "e"}, {Released: "e"}, y][{Pressed: "e"}, {Held: "e"}, {Released: "e"}, y]
+
+
+
+
+
+
+
+[{Pressed: "l"}, {Held: "l"}, {Released: "l"}, o][{Pressed: "l"}, {Held: "l"}, {Released: "l"}, o][{Pressed: "l"}, {Held: "l"}, {Released: "l"}, o][{Pressed: "l"}, {Held: "l"}, {Released: "l"}, o][{Pressed: "o"}, {Held: "o"}, {Released: "o"}, g][{Pressed: "o"}, {Held: "o"}, {Released: "o"}, g][{Pressed: "o"}, {Held: "o"}, {Released: "o"}, g][{Pressed: "o"}, {Held: "o"}, {Released: "o"}, g][{Pressed: "g"}, {Held: "g"}, {Released: "g"}, g][{Pressed: "g"}, {Held: "g"}, {Released: "g"}, g][{Pressed: "g"}, {Held: "g"}, {Released: "g"}, g][{Pressed: "g"}, {Held: "g"}, {Released: "g"}, g][{Pressed: "g"}, {Held: "g"}, {Released: "g"}, e][{Pressed: "g"}, {Held: "g"}, {Released: "g"}, e][{Pressed: "g"}, {Held: "g"}, {Released: "g"}, e][{Pressed: "g"}, {Held: "g"}, {Released: "g"}, e][{Pressed: "e"}, {Held: "e"}, {Released: "e"}, r][{Pressed: "e"}, {Held: "e"}, {Released: "e"}, r][{Pressed: "e"}, {Held: "e"}, {Released: "e"}, r][{Pressed: "e"}, {Held: "e"}, {Released: "e"}, r][{Pressed: "n"}, {Held: "n"}, {Released: "n"}, o][{Pressed: "n"}, {Held: "n"}, {Released: "n"}, o][{Pressed: "n"}, {Held: "n"}, {Released: "n"}, o][{Pressed: "n"}, {Held: "n"}, {Released: "n"}, o][{Pressed: "o"}, {Held: "o"}, {Released: "o"}, t][{Pressed: "o"}, {Held: "o"}, {Released: "o"}, t][{Pressed: "o"}, {Held: "o"}, {Released: "o"}, t][{Pressed: "o"}, {Held: "o"}, {Released: "o"}, t][{Pressed: "t"}, {Held: "t"}, {Released: "t"}, e][{Pressed: "t"}, {Held: "t"}, {Released: "t"}, e][{Pressed: "t"}, {Held: "t"}, {Released: "t"}, e][{Pressed: "t"}, {Held: "t"}, {Released: "t"}, e]
